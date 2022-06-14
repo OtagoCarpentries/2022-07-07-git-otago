@@ -76,7 +76,7 @@ displayed if the 'eventbrite' field in the header is not set.
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
-  height="380px"
+  height="480px"
   scrolling="auto">
 </iframe>
 {% endif %}
